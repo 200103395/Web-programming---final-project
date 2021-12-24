@@ -1,0 +1,14 @@
+.container2 {
+	display: flex;
+	flex-direction: row;
+}
+.column2 {
+	background-color: lightblue;
+	color: yellow;
+	margin: 20px;
+	box-shadow: rgba(31, 31, 31, 0.12) 0px 1px 6px, rgba(31, 31, 31, 0.12) 0px 1px 4px;
+}
+.words {
+	font-family: Arial ;
+	font-size: 15px;
+}
